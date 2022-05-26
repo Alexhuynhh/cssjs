@@ -1,5 +1,5 @@
-/*
-var url_popup = 'http://bit.ly/1LbdAEr';
+
+var url_popup = 'https://www.hungthinh.org/lavita';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
@@ -33,9 +33,9 @@ var url_popup = 'http://bit.ly/1LbdAEr';
                    }
                  });
       });  
-      */
+      
       //]]>
-	/*
+	
 	var url_popup = 'http://giaiphapthuonghieu.vn';
 	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
-	*/
+	
